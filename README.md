@@ -207,8 +207,9 @@ Upload to GitHub Pages for free hosting.
 
 ```
 ## OUTPUT
-<img width="1898" height="905" alt="Screenshot 2025-08-29 154741" src="https://github.com/user-attachments/assets/6bb5655f-38df-4ca6-8f6f-af0f81c5a6c0" />
-<img width="1900" height="637" alt="Screenshot 2025-08-29 154751" src="https://github.com/user-attachments/assets/dcfd0e53-9a9d-472c-936c-20529b53bab0" />
+<img width="1898" height="1011" alt="Screenshot 2025-10-29 085155" src="https://github.com/user-attachments/assets/7ee13dcf-dc40-4390-bca2-e81ea1d0542f" />
+<img width="1898" height="1011" alt="Screenshot 2025-10-29 085155" src="https://github.com/user-attachments/assets/b340aaaf-a95d-4cb4-879b-bb286ab8ecff" />
+
 
 
 ## RESULT
